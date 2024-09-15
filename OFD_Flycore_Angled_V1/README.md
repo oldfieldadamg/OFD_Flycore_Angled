@@ -68,8 +68,8 @@ not work)
 
 (1) M2.6x10mm toy screw (Optional)
 
-(1) Cherry DB2 style switch for pusher position
-(Optional)
+(1) Cherry DB2 style switch w/ lever (not roller) for pusher position
+(Optional) (Similar to McMaster 7658K11)
 
 (1) Spring 20mm in length less than 7mm in
 diameter for mag release (Recommend
